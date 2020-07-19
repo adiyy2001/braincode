@@ -21,7 +21,7 @@ import { EditTaskComponent } from './edit-task/edit-task.component';
     FormComponent,
     TaskItemComponent,
     ErrorFieldComponent,
-    EditTaskComponent
+    EditTaskComponent,
     ModalComponent,
     ErrorFieldComponent
 
